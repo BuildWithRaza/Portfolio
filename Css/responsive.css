@@ -134,6 +134,12 @@
     .footer-social h3 {
         text-align: center;
     }
+    .projectSection{
+        width: 80%;
+    }
+    .contactSection {
+        margin: 15px;
+    }
 }
 
 @media screen and (max-width: 500px) {
